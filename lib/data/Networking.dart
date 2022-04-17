@@ -5,7 +5,7 @@ import 'package:octopus_test/model/api_response.dart';
 
 const BASE_URL = 'http://api.nytimes.com/svc/';
 
-const API_KEY = "rkussQUNvng0nkNNt5uPCK2msRND9Rdl";
+const API_KEY = "";
 
 class DataLoader {
 

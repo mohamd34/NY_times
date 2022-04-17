@@ -1,10 +1,10 @@
 # NY_times
 
-A new Flutter application.
+A NY_times project created in flutter using Bloc as state management. NY_times supports both Android and IOS.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a mini.
 
 A few resources to get you started if this is your first Flutter project:
 
