@@ -1,4 +1,4 @@
-import 'package:octopus_test/model/news.dart';
+import 'package:octopus_test/data/model/news.dart';
 import 'package:octopus_test/ui/new_details/news_details.dart';
 import 'package:octopus_test/utils/constants.dart';
 import 'package:flutter/material.dart';

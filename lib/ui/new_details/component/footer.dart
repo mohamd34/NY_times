@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:octopus_test/model/news.dart';
+import 'package:octopus_test/data/model/news.dart';
 import 'package:octopus_test/utils/constants.dart';
 import 'package:url_launcher/url_launcher.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 import 'package:dio/dio.dart';
-import 'package:octopus_test/model/api_response.dart';
+import 'package:octopus_test/data/model/api_response.dart';
 
 const BASE_URL = 'http://api.nytimes.com/svc/';
 

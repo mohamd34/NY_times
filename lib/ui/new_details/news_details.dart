@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:octopus_test/model/news.dart';
+import 'package:octopus_test/data/model/news.dart';
 import 'package:octopus_test/utils/constants.dart';
 import 'package:octopus_test/ui/new_details/component/NewsHeader.dart';
 import 'component/footer.dart';
 import 'component/publisher_info.dart';
 
 class NewsDetails extends StatelessWidget {
-  static String id = 'NewsDetails';
+  static const String id = '/NewsDetails';
 
   NewsDetails({Key? key, this.news}) : super(key: key);
 

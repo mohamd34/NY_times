@@ -1,4 +1,4 @@
-import 'package:octopus_test/model/media_metadata.dart';
+import 'package:octopus_test/data/model/media_metadata.dart';
 
 class Media {
   String? type;

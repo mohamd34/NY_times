@@ -1,4 +1,4 @@
-import 'package:octopus_test/model/media.dart';
+import 'package:octopus_test/data/model/media.dart';
 
 class News{
   String? uri;

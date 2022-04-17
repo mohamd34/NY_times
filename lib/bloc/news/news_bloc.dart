@@ -3,9 +3,9 @@ import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
-import 'package:octopus_test/data/Networking.dart';
-import 'package:octopus_test/model/api_response.dart';
-import 'package:octopus_test/model/news.dart';
+import 'package:octopus_test/data/data_provider/Networking.dart';
+import 'package:octopus_test/data/model/api_response.dart';
+import 'package:octopus_test/data/model/news.dart';
 
 part 'news_event.dart';
 part 'news_state.dart';
